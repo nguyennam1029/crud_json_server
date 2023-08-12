@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+}
+.list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.product {
+  width: 200px;
+  border-radius: 10px;
+  text-align: left;
+  /* overflow: hidden; */
+}
+.product-image img {
+  object-fit: cover;
+  border-radius: 10px;
+  width: 100%;
+}
+.product-title {
+}
+.product-price {
+}
+.product-des {
+}

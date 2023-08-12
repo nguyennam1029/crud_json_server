@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": "111",
+      "title": "json-server",
+      "image": "https://images.unsplash.com/photo-1609630875171-b1321377ee65?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW90b3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "price": 123,
+      "des": "abs"
+    },
+    {
+      "id": "11",
+      "title": "json-server2",
+      "image": "https://images.unsplash.com/photo-1590507014612-08b6a0b4e31e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bW90b3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "price": 123,
+      "des": "abs33"
+    },
+    {
+      "title": "2024",
+      "image": "https://images.unsplash.com/photo-1590506978404-d3e577192a18?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG1vdG98ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "price": "123",
+      "des": "a355bs",
+      "id": "142"
+    },
+    {
+      "title": "202444",
+      "image": "https://media.techz.vn/media2019/source/yyyy/a333/kawasaki-zx-25r-bao-tin-cuc-xau-cho-khach-hang-trong-thang-3%20(1).jpg",
+      "price": "9999",
+      "des": "vip",
+      "id": "e1d228c1-d6f4-4491-8a9b-82ba15112ad2"
+    }
+  ]
+}
